@@ -13,3 +13,7 @@ def second_challenge
 end
 
 
+family_members = {mom: "Victoria", dad: "Richard", sister: "Zoe"}
+ 
+family_members.values
+#  => ["Victoria", "Richard", "Zoe"]
